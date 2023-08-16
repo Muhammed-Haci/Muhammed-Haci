@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hacı</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-haci&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-haci" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed-haci" alt="muhammed-haci" /></a> </p>
+- 🔭 I’m currently working on [a Frontend Project](https://muhammed-haci.github.io/dresshop)
 
-- 🔭 I’m currently working on [a Frontend Project](https://muhammed-haci.github.io/piramit/index.html)
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **any new Frontend projects**
 
 - 👨‍💻 All of my projects are available at [https://www.muhammedhaci.com](https://www.muhammedhaci.com)
 
-- 💬 Ask me about **HTML, CSS, JS, and React**
+- 💬 Ask me about **HTML, CSS, JS, React.js and Next.js**
 
 - 📫 How to reach me **muhammed.hacilar@gmail.com**
 
